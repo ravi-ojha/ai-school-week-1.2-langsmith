@@ -1,0 +1,47 @@
+[
+    {
+        "feedback": "WidgetWorld exceeded my expectations with their top-notch widgets! Our machines run smoother than ever before.",
+        "ai_response": "We are thrilled to hear that our widgets have made a positive impact on your machines. If you have any questions or need further assistance, please don't hesitate to reach out. Thank you for choosing WidgetWorld!",
+        "annotation": "good"
+    },
+    {
+        "feedback": "Impressed by WidgetWorld's attention to detail and commitment to quality. Their widgets are a game-changer for our business.",
+        "ai_response": "We are thrilled to hear that our widgets have made a positive impact on your business. At WidgetWorld, we strive to provide top-notch products and exceptional service to all our customers. If you ever need any assistance or have feedback to share, please don't hesitate to reach out. We appreciate your support!",
+        "annotation": "good"
+    },
+    {
+        "feedback": "WidgetWorld's widgets are reliable and durable, making them an essential component in our manufacturing process.",
+        "ai_response": "We are glad to hear that our widgets have been a valuable asset to your manufacturing process. If you have any further comments or suggestions, please feel free to reach out to us. We appreciate your business!",
+        "annotation": "good"
+    },
+    {
+        "feedback": "WidgetWorld's widgets are decent, but nothing exceptional. They get the job done adequately.",
+        "ai_response": "We appreciate your feedback and are constantly working to improve our products. If you have any specific suggestions on how we can make our widgets better, please feel free to share them with us. We strive to provide the best experience for our customers.",
+        "annotation": "good"
+    },
+    {
+        "feedback": "Average experience with WidgetWorld. Their widgets function as expected, but nothing to write home about.",
+        "ai_response": "We appreciate you taking the time to share your experience with our widgets. If there's anything specific you think we could improve upon in the future, please let us know. Your feedback is valuable to us as we strive to provide the best products and service to our customers.",
+        "annotation": "good"
+    },
+    {
+        "feedback": "WidgetWorld's widgets are alright, but there's room for improvement in terms of durability.",
+        "ai_response": "Thank you for providing your feedback on our widgets. We truly value your input and are always looking for ways to enhance our products. We will take your comment on durability into consideration as we work towards improving our widgets. If you have any specific suggestions or issues you'd like to discuss further, please feel free to reach out to us. Thank you for choosing WidgetWorld.",
+        "annotation": "good"
+    },
+    {
+        "feedback": "Avoid WidgetWorld at all costs! Their widgets are cheaply made and constantly malfunction.",
+        "ai_response": "We're sorry to hear about your experience with our widgets. Customer satisfaction is our top priority, and we strive to provide high-quality products. Please contact our customer service department so we can address your concerns and work towards a resolution. Thank you for bringing this to our attention.",
+        "annotation": "good"
+    },
+    {
+        "feedback": "Terrible experience with WidgetWorld. Their widgets broke down within weeks of installation.",
+        "ai_response": "We are sorry to hear about your experience with our widgets. We strive to provide high-quality products, and we apologize for any inconvenience this has caused you. Please contact our customer service department so we can assist you with a resolution. Thank you for bringing this to our attention.",
+        "annotation": "good"
+    },
+    {
+        "feedback": "WidgetWorld's widgets are a nightmare. We've had nothing but problems since day one.",
+        "ai_response": "We are sorry to hear about your experience with our widgets. Please provide us with more details about the issues you are facing so we can assist you better. Your feedback is valuable to us, and we are committed to resolving any issues you may have. Thank you for bringing this to our attention.",
+        "annotation": "good"
+    }
+]
